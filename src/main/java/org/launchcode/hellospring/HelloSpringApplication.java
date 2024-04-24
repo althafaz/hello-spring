@@ -1,5 +1,6 @@
 package org.launchcode.hellospring;
 
+import org.launchcode.hellospring.controllers.HelloController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
